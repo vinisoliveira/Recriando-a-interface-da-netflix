@@ -24,9 +24,13 @@ header .container{
 
 header .logo{
     margin-left: 5px;
-    color: var(--vermelho);
-    font-family: 'Arial Black';
-    font-size: 40px;
+}
+
+header .logo img{
+    margin-top: 7px;
+    width: auto;
+    height: 60px;
+
 }
 
 header nav a{
